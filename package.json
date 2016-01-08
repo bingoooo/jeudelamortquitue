@@ -1,0 +1,25 @@
+{
+  "name": "base",
+  "version": "0.0.0",
+  "description": "",
+  "main": "inde.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/SimplonTlse/Base.git"
+  },
+  "author": "Amine El Ghayate",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SimplonTlse/Base/issues"
+  },
+  "homepage": "https://github.com/SimplonTlse/Base",
+  "dependencies": {
+    "jquery": "^2.1.4",
+    "mustache": "^2.2.1",
+    "semantic-ui-css": "^2.1.6",
+    "senna": "^0.4.1"
+  }
+}
